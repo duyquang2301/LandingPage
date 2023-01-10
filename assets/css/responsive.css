@@ -16,7 +16,6 @@
         background-color: var(--white-color);
         margin: 0;
         width: 50%;   
-        height: 60vh;
         padding: 24px 10px;
         transform: translateY(-100%);
         opacity: 0;
